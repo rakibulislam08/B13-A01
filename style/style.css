@@ -155,3 +155,41 @@ nav {
     padding: 13px;
     background-color: rgba(249, 85, 85, 1);
 }
+/* knowledge section  */
+#knowledge-container{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    padding: 120px;
+    width: 1100px;
+    background-color: #FFFFFF;
+}
+.knowledge-img img{
+    width: 600px;
+    height: 600px;
+}
+.knowlegde-title{
+    font-size: 16px;
+    line-height: 20px;
+    color: #30B868;
+}
+.brain-content h1{
+    font-size: 48px;
+    line-height: 58px;
+    padding: 16px 0;
+}
+.brain-content .knowledge-p{
+font-size: 16px ;
+line-height: 20px;
+color: #627382;
+padding-bottom: 40px;
+}
+.knowledge-describe{
+    display: inline-flex;
+    gap: 6px;
+}
+
+.knowledge-cature img{
+    width: 20px;
+    height: 20px;
+}
