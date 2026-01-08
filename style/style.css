@@ -215,5 +215,10 @@ padding-bottom: 40px;
 .last-p{
     font-size: 16px;
     padding-bottom: 80px;
-    margin-bottom: 120px;
+}
+/* footer-section */
+#footer-section{
+    max-width: 1600px;
+    height: 348px;
+    background-color: rgba(0, 25, 49, 1);
 }
