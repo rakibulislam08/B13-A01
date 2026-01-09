@@ -39,7 +39,7 @@ nav {
 /* hero section  */
 
 #hero-section {
-    background: url("/assets/hero-bg.png");
+    background: url("../assets/hero-bg.png");
     max-width: 1707px;
     height: 600px;
 }
